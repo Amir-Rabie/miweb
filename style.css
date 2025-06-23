@@ -32,7 +32,7 @@ button{
     margin-bottom: 500px;
     cursor:pointer;
 }
-button a:hover{
+button:hover{
     color: red;
 }
 
@@ -42,6 +42,9 @@ button a:hover{
     text-shadow: 1px 4px rgba(0, 0, 0, 0.4);
     font-family:Arial, Helvetica, sans-serif;
     float:right;
+}
+.sueños::after{
+    color: crimson;
 }
 
 .satan{
